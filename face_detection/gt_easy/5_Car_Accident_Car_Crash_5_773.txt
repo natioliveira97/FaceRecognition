@@ -1,0 +1,6 @@
+face 630 444 643 460 difficult
+face 686 440 700 458 difficult
+face 551 430 564 447 difficult
+face 467 438 480 457 difficult
+face 396 432 410 448 difficult
+face 327 410 341 429 difficult

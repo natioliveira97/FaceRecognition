@@ -1,0 +1,8 @@
+face 814 734 850 768 difficult
+face 683 741 693 754 difficult
+face 782 717 790 728 difficult
+face 657 716 664 726 difficult
+face 701 720 713 735 difficult
+face 906 724 913 736 difficult
+face 948 721 959 736 difficult
+face 933 716 941 726 difficult

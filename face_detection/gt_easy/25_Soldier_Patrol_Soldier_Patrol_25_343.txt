@@ -1,0 +1,4 @@
+face 302 596 341 644 difficult
+face 679 536 721 593 difficult
+face 70 809 87 826 difficult
+face 891 829 930 864 difficult

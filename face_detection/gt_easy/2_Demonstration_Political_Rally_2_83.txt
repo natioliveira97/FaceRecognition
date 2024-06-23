@@ -1,0 +1,77 @@
+face 111 78 140 121 difficult
+face 124 81 157 130 difficult
+face 170 0 199 37 difficult
+face 35 60 67 102 difficult
+face 0 71 39 117 difficult
+face 10 122 64 186 difficult
+face 43 178 96 242 difficult
+face 70 211 135 280 difficult
+face 208 222 273 299 difficult
+face 178 151 229 214 difficult
+face 131 172 175 223 difficult
+face 234 120 274 173 difficult
+face 203 113 235 152 difficult
+face 218 59 255 109 difficult
+face 327 167 376 229 difficult
+face 415 193 457 259 difficult
+face 384 144 422 200 difficult
+face 401 111 437 158 difficult
+face 376 95 411 135 difficult
+face 445 111 476 165 difficult
+face 237 13 258 48 difficult
+face 266 19 288 50 difficult
+face 290 30 316 62 difficult
+face 385 57 414 93 difficult
+face 426 31 456 75 difficult
+face 344 29 377 66 difficult
+face 94 284 165 375 difficult
+face 3 391 84 495
+face 167 390 248 487 difficult
+face 117 532 230 642 difficult
+face 97 615 204 684 difficult
+face 292 572 395 684
+face 403 296 496 422
+face 598 494 693 627
+face 465 182 516 251 difficult
+face 504 205 556 281 difficult
+face 560 279 632 371 difficult
+face 626 384 708 491 difficult
+face 633 248 676 300 difficult
+face 588 184 634 253 difficult
+face 553 184 586 224 difficult
+face 674 615 787 684 difficult
+face 885 556 995 684
+face 986 440 1024 558 difficult
+face 725 366 801 475 difficult
+face 881 335 959 416
+face 980 237 1020 302 difficult
+face 929 202 981 260 difficult
+face 950 156 1006 220 difficult
+face 886 149 935 215 difficult
+face 812 135 855 188 difficult
+face 788 115 828 167 difficult
+face 473 79 515 128 difficult
+face 557 83 591 127 difficult
+face 475 44 493 72 difficult
+face 472 17 496 46 difficult
+face 631 64 657 100 difficult
+face 672 51 693 78 difficult
+face 742 150 784 198 difficult
+face 756 183 787 227 difficult
+face 825 61 852 98 difficult
+face 869 27 890 52 difficult
+face 816 36 842 67 difficult
+face 749 17 774 47 difficult
+face 780 38 803 71 difficult
+face 602 62 625 85 difficult
+face 567 39 584 65 difficult
+face 590 55 610 82 difficult
+face 585 17 605 42 difficult
+face 980 85 1008 119 difficult
+face 1000 122 1022 151 difficult
+face 919 1 939 27 difficult
+face 228 267 297 353 difficult
+face 825 340 864 387 difficult
+face 311 73 334 99 difficult
+face 488 44 520 75 difficult
+face 941 82 971 120 difficult

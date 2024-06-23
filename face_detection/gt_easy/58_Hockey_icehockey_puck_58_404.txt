@@ -1,0 +1,3 @@
+face 485 224 537 284 difficult
+face 506 63 564 132 difficult
+face 403 374 454 415 difficult

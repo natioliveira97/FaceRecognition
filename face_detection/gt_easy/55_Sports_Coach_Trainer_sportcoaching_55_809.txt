@@ -1,0 +1,3 @@
+face 693 633 751 733 difficult
+face 374 555 446 642 difficult
+face 817 374 903 471 difficult

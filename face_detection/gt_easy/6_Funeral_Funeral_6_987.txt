@@ -1,0 +1,6 @@
+face 655 332 756 414 difficult
+face 344 173 457 319
+face 220 46 298 138 difficult
+face 345 52 392 114 difficult
+face 1 88 56 158 difficult
+face 298 56 340 114 difficult

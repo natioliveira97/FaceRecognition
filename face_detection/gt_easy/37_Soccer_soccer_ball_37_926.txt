@@ -1,0 +1,3 @@
+face 509 139 516 148 difficult
+face 938 234 945 243 difficult
+face 508 295 515 304 difficult

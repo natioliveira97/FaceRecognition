@@ -1,0 +1,3 @@
+face 857 390 870 406 difficult
+face 622 200 669 257 difficult
+face 414 264 444 305 difficult

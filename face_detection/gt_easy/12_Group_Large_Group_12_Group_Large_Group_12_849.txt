@@ -1,0 +1,5 @@
+face 779 338 796 364 difficult
+face 650 355 661 373 difficult
+face 433 301 445 322 difficult
+face 399 324 413 343 difficult
+face 212 222 223 234 difficult

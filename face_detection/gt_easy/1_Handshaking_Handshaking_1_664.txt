@@ -1,0 +1,5 @@
+face 857 21 899 83 difficult
+face 651 107 666 129 difficult
+face 681 118 693 133 difficult
+face 720 115 732 130 difficult
+face 740 122 751 139 difficult

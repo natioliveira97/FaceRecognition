@@ -1,0 +1,52 @@
+face 489 320 527 378
+face 661 360 703 418
+face 921 351 981 416
+face 976 320 996 355 difficult
+face 924 312 953 347 difficult
+face 789 318 806 346 difficult
+face 777 315 791 340 difficult
+face 547 302 558 315 difficult
+face 528 310 537 323 difficult
+face 461 306 479 333 difficult
+face 994 277 1003 286 difficult
+face 979 284 986 294 difficult
+face 962 274 969 281 difficult
+face 901 328 916 349 difficult
+face 749 305 758 320 difficult
+face 761 288 770 303 difficult
+face 672 300 687 317 difficult
+face 588 289 595 302 difficult
+face 784 298 806 324 difficult
+face 809 296 819 307 difficult
+face 277 365 313 409
+face 337 385 386 451
+face 402 335 430 376 difficult
+face 349 324 367 349 difficult
+face 110 409 138 455
+face 141 404 161 448 difficult
+face 60 386 99 426
+face 233 319 244 333 difficult
+face 338 330 347 343 difficult
+face 373 316 383 328 difficult
+face 18 311 27 320 difficult
+face 25 328 35 340 difficult
+face 26 354 40 379 difficult
+face 152 332 160 343 difficult
+face 154 346 167 363 difficult
+face 144 349 156 362 difficult
+face 134 340 142 350 difficult
+face 966 309 976 323 difficult
+face 947 279 954 288 difficult
+face 950 288 957 301 difficult
+face 1009 288 1017 298 difficult
+face 265 382 287 416 difficult
+face 190 316 198 323 difficult
+face 0 329 6 342 difficult
+face 573 298 579 306 difficult
+face 566 295 571 301 difficult
+face 717 313 727 329 difficult
+face 259 341 278 363 difficult
+face 252 329 268 352 difficult
+face 814 341 836 378 difficult
+face 748 292 759 306 difficult
+face 654 348 688 398 difficult

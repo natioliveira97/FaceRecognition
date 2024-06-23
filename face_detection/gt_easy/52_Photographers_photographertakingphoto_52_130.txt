@@ -1,0 +1,3 @@
+face 388 348 404 379 difficult
+face 486 382 499 401 difficult
+face 654 346 663 357 difficult

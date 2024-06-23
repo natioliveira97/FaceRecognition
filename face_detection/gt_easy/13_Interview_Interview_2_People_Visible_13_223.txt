@@ -1,0 +1,11 @@
+face 122 48 162 99 difficult
+face 278 108 310 147 difficult
+face 419 51 462 105 difficult
+face 570 108 604 148 difficult
+face 696 64 735 115 difficult
+face 822 108 853 147 difficult
+face 120 318 161 370 difficult
+face 292 376 323 413 difficult
+face 455 373 486 413 difficult
+face 652 319 690 367 difficult
+face 865 323 903 367 difficult

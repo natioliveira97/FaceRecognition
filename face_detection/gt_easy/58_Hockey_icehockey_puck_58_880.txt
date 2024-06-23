@@ -1,0 +1,4 @@
+face 921 279 944 309 difficult
+face 642 281 661 303 difficult
+face 394 309 417 337 difficult
+face 339 326 354 345

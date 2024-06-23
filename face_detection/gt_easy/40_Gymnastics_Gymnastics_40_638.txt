@@ -1,0 +1,3 @@
+face 453 325 483 362 difficult
+face 872 330 878 338 difficult
+face 971 322 982 334 difficult

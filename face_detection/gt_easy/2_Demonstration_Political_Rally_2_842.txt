@@ -1,0 +1,5 @@
+face 506 294 548 343 difficult
+face 367 595 384 617 difficult
+face 293 625 309 644 difficult
+face 855 382 864 394 difficult
+face 866 380 877 396 difficult

@@ -1,0 +1,4 @@
+face 882 793 903 818 difficult
+face 789 816 807 843 difficult
+face 723 816 744 840 difficult
+face 637 810 658 836 difficult
